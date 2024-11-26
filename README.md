@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m Rovina.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Robinsssson" />
 </a>
 <a href="https://github.com/Robinsssson/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinsssson&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Robinsssson&layout=compact&langs_count=8&card_width=400" />
 </a>
 
 ### 🐍Github Contribution
