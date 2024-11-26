@@ -29,6 +29,6 @@ Welcome to my GitHub profile! I’m Rovina.
 </a>
 
 ![贡献蛇形图](https://github.com/Robinsssson/Robinsssson/blob/output/github-contribution-grid-snake.svg)
-![GitHub Contributions](https://github.com/yourusername/yourusername/blob/main/assets/github-contributions.svg)
+![GitHub Contributions](https://github.com/Robinsssson/Robinsssson/blob/main/assets/github-contributions.svg)
 
 
