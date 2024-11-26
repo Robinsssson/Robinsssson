@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m [Your Name], a **[Your Role or Title]** pass
 </a>
 
 ### 🌐 Connect with Me  
-- 📧 [Email](mailto:your-email@example.com)  
+- 📧 [Email](rovina.dev@protonmail.com)  
 
 
 
