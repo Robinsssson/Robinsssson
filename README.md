@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I’m [Your Name], a **[Your Role or Title]** pass
 ### 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robinsssson&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robinsssson&layout=compact)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robinsssson)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌐 Connect with Me  
 - 📧 [Email](mailto:your-email@example.com)  
