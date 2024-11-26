@@ -1,5 +1,5 @@
 # Hi there! 👋  
-Welcome to my GitHub profile! I’m [Your Name], a **[Your Role or Title]** passionate about **[Your Interests or Key Skills]**.  
+Welcome to my GitHub profile! I’m Rovina.
 
 ### 🌟 About Me  
 - 🎓 **Education**: Aerospace Engineering 
