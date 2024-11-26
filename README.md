@@ -1,10 +1,27 @@
-## Hi there 👋
+# Hi there! 👋  
+Welcome to my GitHub profile! I’m [Your Name], a **[Your Role or Title]** passionate about **[Your Interests or Key Skills]**.  
 
-### 技术栈
-- 🧑‍💻 编程语言： ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- 🖥️ 前端： ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-- 🔧 工具： ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+### 🌟 About Me  
+- 🎓 **Education**: Aerospace Engineering 
+- 💼 **Current Role**: Student 
+- 🚀 **Focus Areas**: Web Development, AI, Backend Engineering
+- 🎯 **Goals**: Contributing to open-source projects and building scalable systems
+- 🌏 **Hobbies**: game & music 
+
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+
+
+### 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+### 🌐 Connect with Me  
+- 📧 [Email](mailto:your-email@example.com)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robinsssson)](https://github.com/anuraghazra/github-readme-stats)
 
-![GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
