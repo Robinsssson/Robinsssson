@@ -1,5 +1,5 @@
-# Hi there! 👋  
-Welcome to my GitHub profile! I’m Rovina.
+# Hi there! 👋  I’m Rovina. 🇺🇦
+Welcome to my GitHub profile! 
 
 ### 🌟 About Me  
 - 🎓 **Education**: Aerospace Engineering 
